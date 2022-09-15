@@ -1,2 +1,2 @@
 # Machine-Learning-Algorithm
-Tree based ML algorithm
+Tree-based ML algorithm
